@@ -1,0 +1,10 @@
+# Arduino temporary files
+**/*.hex
+**/*.bin
+**/*.elf
+**/*.map
+**/*.d
+**/*.o
+**/*.a
+build/
+.vscode/
