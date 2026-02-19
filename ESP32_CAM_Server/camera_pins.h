@@ -1,8 +1,4 @@
-#ifndef CAMERA_PINS_H
-#define CAMERA_PINS_H
 
-// Pin definition for CAMERA_MODEL_AI_THINKER
-// Change this if you use another module
 #define PWDN_GPIO_NUM     32
 #define RESET_GPIO_NUM    -1
 #define XCLK_GPIO_NUM      0
@@ -16,9 +12,7 @@
 #define Y5_GPIO_NUM       21
 #define Y4_GPIO_NUM       19
 #define Y3_GPIO_NUM       18
-#define Y2_GPIO_NUM       5
+#define Y2_GPIO_NUM        5
 #define VSYNC_GPIO_NUM    25
 #define HREF_GPIO_NUM     23
 #define PCLK_GPIO_NUM     22
-
-#endif // CAMERA_PINS_H
