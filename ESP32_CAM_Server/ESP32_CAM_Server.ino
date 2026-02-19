@@ -6,8 +6,8 @@
 // ===========================
 // Connection Configuration
 // ===========================
-const char* ssid = "Redmi Note 13 Pro+ 5G";
-const char* password = "20Helsinki30";
+const char* ssid = "------";
+const char* password = "------";
 
 // Stationary IP Configuration
 // Update these values to match your network
